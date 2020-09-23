@@ -10,4 +10,4 @@ fanart="https://github.com/streamindemons/Wizard/blob/master/fanart.jpg?raw=true
 preview="http://"
 adult="no"
 info="http://"
-description="This is the Streamin Demons build. It requires RealDebrid and Trakt."
+description="This is the Notflix build. It requires RealDebrid and Trakt."

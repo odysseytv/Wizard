@@ -1,6 +1,6 @@
 name="Notflix"
 version="1.2"
-url="https://archive.org/download/notflix-1.2/notflix-1.2.zip"
+url="https://archive.org/download/notflix-1.2.1/notflix-1.2.1.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"

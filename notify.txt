@@ -1,0 +1,5 @@
+1
+|||
+
+Make sure to rebuild Trakt database and reload skin after build finishes install!
+This is located under Addons widgets, scroll to top, Trakt Sync Tools.
